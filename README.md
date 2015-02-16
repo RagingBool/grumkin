@@ -1,0 +1,10 @@
+# Snark 0.0.0.0 [IN DEVELOPMENT]
+Grumkin: A 6-channel PWM LED driver
+
+## Links
+* Git repository: https://github.com/RagingBool/grumkin
+
+## License
+Apache License 2.0 (http://www.apache.org/licenses/LICENSE-2.0)
+Copyright 2015 Raging Bool (http://ragingbool.org)
+
