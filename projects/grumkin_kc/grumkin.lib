@@ -1,0 +1,26 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# CONN_PWR_5V
+#
+DEF CONN_PWR_5V PWR 0 40 Y Y 1 F N
+F0 "PWR" -50 150 50 H V C CNN
+F1 "CONN_PWR_5V" 300 0 50 V V C CNN
+F2 "" 0 0 60 H V C CNN
+F3 "" 0 0 60 H V C CNN
+$FPLIST
+ Pin_Header_Straight_1X02
+ Pin_Header_Angled_1X02
+ Socket_Strip_Straight_1X02
+ Socket_Strip_Angled_1X02
+$ENDFPLIST
+DRAW
+S -50 -40 -10 -60 0 1 0 N
+S -50 60 -10 40 0 1 0 N
+S -50 100 200 -100 0 1 0 N
+X +5V 1 -200 50 150 R 50 50 1 1 w
+X GND 2 -200 -50 150 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library
