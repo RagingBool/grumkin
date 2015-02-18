@@ -665,4 +665,16 @@ Wire Wire Line
 Connection ~ 4550 4250
 Wire Wire Line
 	4550 3750 4550 4450
+Text Label 5300 1700 0    60   ~ 0
+LED_POWER
+Text Label 5350 1800 0    60   ~ 0
+LED_POWER
+Text Label 5400 1900 0    60   ~ 0
+LED_POWER
+Text Label 5300 4550 0    60   ~ 0
+LED_POWER
+Text Label 5350 4650 0    60   ~ 0
+LED_POWER
+Text Label 5400 4750 0    60   ~ 0
+LED_POWER
 $EndSCHEMATC
