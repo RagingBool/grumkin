@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name conn_pt-1,5)(type KiCad)(uri ${KIPRJMOD}/../../external/kicad/Footprints/conn_pt-1,5/w_conn_pt-1,5.pretty)(options "")(descr ""))
+  (lib (name pin_strip)(type KiCad)(uri ${KIPRJMOD}/../../external/kicad/Footprints/pin_strip/w_pin_strip.pretty)(options "")(descr ""))
+)
