@@ -1,0 +1,185 @@
+Cmp-Mod V01 Created by Cvpcb (2015-01-16 BZR 5376)-product   date = 2/18/2015 5:36:25 PM
+
+BeginCmp
+TimeStamp = /54E3CD10;
+Reference = CONN1;
+ValeurCmp = CONN_PWR_IN_5V;
+IdModule  = pin_strip:pin_strip_2;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E3CD41;
+Reference = CONN2;
+ValeurCmp = CONN_PWR_OUT_5V;
+IdModule  = pin_strip:pin_strip_2;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E45371;
+Reference = CONN3;
+ValeurCmp = CONN_PWR_IN_12V;
+IdModule  = conn_pt-1,5:pt_1,5-2-3,5-h;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E3D22E;
+Reference = CONN10;
+ValeurCmp = CONN_RGB_IN;
+IdModule  = pin_strip:pin_strip_3;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E3D35C;
+Reference = CONN11;
+ValeurCmp = CONN_RGB_IN;
+IdModule  = pin_strip:pin_strip_3;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E3E1FD;
+Reference = CONN20;
+ValeurCmp = LS_RGB0;
+IdModule  = conn_pt-1,5:pt_1,5-4-3,5-h;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E3E63C;
+Reference = CONN21;
+ValeurCmp = LS0;
+IdModule  = conn_pt-1,5:pt_1,5-2-3,5-h;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E3E687;
+Reference = CONN22;
+ValeurCmp = LS1;
+IdModule  = conn_pt-1,5:pt_1,5-2-3,5-h;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E3E6DA;
+Reference = CONN23;
+ValeurCmp = LS2;
+IdModule  = conn_pt-1,5:pt_1,5-2-3,5-h;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E42DCC;
+Reference = CONN24;
+ValeurCmp = LS_RGB3;
+IdModule  = conn_pt-1,5:pt_1,5-4-3,5-h;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E42DD2;
+Reference = CONN25;
+ValeurCmp = LS3;
+IdModule  = conn_pt-1,5:pt_1,5-2-3,5-h;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E42DD8;
+Reference = CONN26;
+ValeurCmp = LS4;
+IdModule  = conn_pt-1,5:pt_1,5-2-3,5-h;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E42DDE;
+Reference = CONN27;
+ValeurCmp = LS5;
+IdModule  = conn_pt-1,5:pt_1,5-2-3,5-h;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E4D00A;
+Reference = CONN30;
+ValeurCmp = CONN_INDICATOR_LEDS;
+IdModule  = pin_strip:pin_strip_6x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E3380D;
+Reference = Q1;
+ValeurCmp = MOS_N;
+IdModule  = Transistors_TO-220:TO-220_Neutral123_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E33FE4;
+Reference = Q2;
+ValeurCmp = MOS_N;
+IdModule  = Transistors_TO-220:TO-220_Neutral123_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E34073;
+Reference = Q3;
+ValeurCmp = MOS_N;
+IdModule  = Transistors_TO-220:TO-220_Neutral123_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E3435C;
+Reference = Q4;
+ValeurCmp = MOS_N;
+IdModule  = Transistors_TO-220:TO-220_Neutral123_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E34373;
+Reference = Q5;
+ValeurCmp = MOS_N;
+IdModule  = Transistors_TO-220:TO-220_Neutral123_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E34388;
+Reference = Q6;
+ValeurCmp = MOS_N;
+IdModule  = Transistors_TO-220:TO-220_Neutral123_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E3373E;
+Reference = R1;
+ValeurCmp = 220;
+IdModule  = Resistors_ThroughHole:Resistor_Horizontal_RM15mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E33FDE;
+Reference = R2;
+ValeurCmp = 220;
+IdModule  = Resistors_ThroughHole:Resistor_Horizontal_RM15mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E3406D;
+Reference = R3;
+ValeurCmp = 220;
+IdModule  = Resistors_ThroughHole:Resistor_Horizontal_RM15mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E34356;
+Reference = R4;
+ValeurCmp = 220;
+IdModule  = Resistors_ThroughHole:Resistor_Horizontal_RM15mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E3436D;
+Reference = R5;
+ValeurCmp = 220;
+IdModule  = Resistors_ThroughHole:Resistor_Horizontal_RM15mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E34382;
+Reference = R6;
+ValeurCmp = 220;
+IdModule  = Resistors_ThroughHole:Resistor_Horizontal_RM15mm;
+EndCmp
+
+EndListe
