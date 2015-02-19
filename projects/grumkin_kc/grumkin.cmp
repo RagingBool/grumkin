@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2015-01-16 BZR 5376)-product   date = 2/18/2015 6:05:23 PM
+Cmp-Mod V01 Created by Cvpcb (2015-01-16 BZR 5376)-product   date = 2/19/2015 1:01:57 AM
 
 BeginCmp
 TimeStamp = /54E3CD10;
@@ -92,7 +92,7 @@ IdModule  = conn_pt-1,5:pt_1,5-2-3,5-h;
 EndCmp
 
 BeginCmp
-TimeStamp = /54E4D00A;
+TimeStamp = /54E51E5A;
 Reference = CONN30;
 ValeurCmp = CONN_INDICATOR_LEDS;
 IdModule  = pin_strip:pin_strip_6x2;
