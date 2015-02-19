@@ -1,4 +1,4 @@
-# Grumkin 0.4.0.0 [IN DEVELOPMENT]
+# Grumkin 0.4.0.0
 Grumkin: A 6-channel PWM LED driver
 
 ## Links
@@ -11,7 +11,7 @@ Copyright 2015 Raging Bool (http://ragingbool.org)
 ## Release Notes
 ### Version 0.1
 
-* **Version 0.4.0.0** [IN DEVELOPMENT]
+* **Version 0.4.0.0** [2015-02-19]
   * Creating a PCB
 
 * **Version 0.3.0.0** [2015-02-18]
