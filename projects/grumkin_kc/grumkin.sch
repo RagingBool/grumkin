@@ -38,7 +38,7 @@ encoding utf-8
 Sheet 1 1
 Title "Grumkin"
 Date ""
-Rev "0.4"
+Rev "0.5"
 Comp "Raging Bool"
 Comment1 "Grumkin: A 6-channel PWM LED driver"
 Comment2 ""
