@@ -12,6 +12,7 @@ Copyright 2015 Raging Bool (http://ragingbool.org)
 ### Version 0.1
 
 * **Version 0.4.0.0** [IN DEVELOPMENT]
+  * Creating a PCB
 
 * **Version 0.3.0.0** [2015-02-18]
   * Adding indicator LEDs
